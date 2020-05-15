@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=GND Pin=*-9
+Removed Pin From Net: NetName=I6 Pin=h1-1
+Removed Pin From Net: NetName=I7 Pin=h1-2
+Removed Pin From Net: NetName=I8 Pin=h1-3
+Removed Pin From Net: NetName=+3.3 Pin=h1-8
+Removed Pin From Net: NetName=GND Pin=h1-9
+Removed Pin From Net: NetName=+5 Pin=h1-10
+Removed Pin From Net: NetName=I1 Pin=header10-6
+Removed Pin From Net: NetName=I2 Pin=header10-7
+Removed Pin From Net: NetName=I3 Pin=header10-8
+Removed Pin From Net: NetName=I4 Pin=header10-9
+Removed Pin From Net: NetName=I5 Pin=header10-10
+Removed Member From Class: ClassName=Sheet1 Member=*
+Removed Member From Class: ClassName=Sheet1 Member=h1
+Removed Member From Class: ClassName=Sheet1 Member=header 10
+Removed Member From Class: ClassName=Sheet1 Member=header10
+Added Pin To Net: NetName=Netesp32-pico-d4_4 Pin=K22-2
+Added Net: Name=Netesp32-pico-d4_4
+Added Pin To Net: NetName=Netesp32-pico-d4_5 Pin=K22-1
+Added Net: Name=Netesp32-pico-d4_5
+Added Pin To Net: NetName=Netesp32-pico-d4_14 Pin=K3-4
+Added Net: Name=Netesp32-pico-d4_14
+Added Pin To Net: NetName=Netesp32-pico-d4_15 Pin=K3-3
+Added Net: Name=Netesp32-pico-d4_15
+Added Pin To Net: NetName=Netesp32-pico-d4_16 Pin=K3-2
+Added Net: Name=Netesp32-pico-d4_16
+Added Pin To Net: NetName=Netesp32-pico-d4_17 Pin=K3-1
+Added Pin To Net: NetName=Netesp32-pico-d4_17 Pin=R1-2
+Added Net: Name=Netesp32-pico-d4_17
+Added Pin To Net: NetName=Netesp32-pico-d4_24 Pin=K4-4
+Added Net: Name=Netesp32-pico-d4_24
+Added Pin To Net: NetName=Netesp32-pico-d4_25 Pin=K4-3
+Added Net: Name=Netesp32-pico-d4_25
+Added Pin To Net: NetName=Netesp32-pico-d4_26 Pin=K4-2
+Added Net: Name=Netesp32-pico-d4_26
+Added Pin To Net: NetName=Netesp32-pico-d4_27 Pin=K4-1
+Added Net: Name=Netesp32-pico-d4_27
+Added Pin To Net: NetName=Netesp32-pico-d4_30 Pin=K5-3
+Added Net: Name=Netesp32-pico-d4_30
+Added Pin To Net: NetName=Netesp32-pico-d4_31 Pin=K5-2
+Added Net: Name=Netesp32-pico-d4_31
+Added Pin To Net: NetName=Netesp32-pico-d4_32 Pin=mic-1
+Added Net: Name=Netesp32-pico-d4_32
+Added Pin To Net: NetName=Netesp32-pico-d4_33 Pin=mic-3
+Added Net: Name=Netesp32-pico-d4_33
+Added Pin To Net: NetName=Netesp32-pico-d4_34 Pin=mic-5
+Added Net: Name=Netesp32-pico-d4_34
+Added Pin To Net: NetName=Netesp32-pico-d4_35 Pin=mic-7
+Added Net: Name=Netesp32-pico-d4_35
+Added Pin To Net: NetName=Netesp32-pico-d4_36 Pin=K2-4
+Added Net: Name=Netesp32-pico-d4_36
+Added Pin To Net: NetName=Netesp32-pico-d4_37 Pin=K2-3
+Added Net: Name=Netesp32-pico-d4_37

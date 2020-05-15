@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=R12 Old Footprint=AXIAL-0.4 New Footprint=smd43
+Change Component Footprint: Designator=R20 Old Footprint=AXIAL-0.4 New Footprint=smd43
+Change Component Footprint: Designator=R28 Old Footprint=AXIAL-0.4 New Footprint=smd43
+Change Component Footprint: Designator=R36 Old Footprint=AXIAL-0.4 New Footprint=smd43
+Change Component Footprint: Designator=R1 Old Footprint=smd43 New Footprint=AXIAL-0.4
+Change component parameters: Designator = "R1" ("R1"); Footprint = "smd43"; UniqueID = "\BDDPDUZE" ("\BDDPDUZE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"

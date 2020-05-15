@@ -1,0 +1,22 @@
+*************************************************************
+FileName = newMYPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : newMYPCB.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : MechanicalMe
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
